@@ -13,6 +13,5 @@ I'm a fourth year undergraduate Computer Science student at SDSU!<br><br> I'm pa
 ![](https://github-readme-stats-ruddy-pi-48.vercel.app/api/top-langs/?username=xzanderbr&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jadengong&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
