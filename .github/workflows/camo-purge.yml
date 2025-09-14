@@ -3,8 +3,6 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch: {}  # allow manual runs
-  schedule:
-    - cron: "0 */12 * * *"  # refresh twice a day
 
 jobs:
   purge:
