@@ -1,20 +1,16 @@
 # Zander Barajas
 
-I'm a software engineer with a B.S. in Computer Science from San Diego State University (2026), looking for new grad roles.
+Hi, I'm Zander. I'm a software engineer in San Diego, and I graduated from San Diego State with a CS degree in 2026. I mostly build web apps, but lately I've been writing a lot of Rust and C++ too. When I'm not coding, I'm usually lifting or out surfing.
 
-I mostly build full-stack apps with TypeScript, Python, and PostgreSQL, but I'm just as happy writing C++ or ESP32 firmware, and I've been getting into reinforcement learning on the side.
-
-Highlights: [Aztec List](https://github.com/xZanderBR/Aztec-List), a marketplace for SDSU students ([live demo](https://azteclist.com)), and [Pourtocol](https://github.com/xZanderBR/Pourtocol), a networked drink dispenser running on an ESP32 ([demo video](https://youtu.be/go4TOXk46Cg)).
-
-[Website](https://xzanderbr.github.io) · [LinkedIn](https://www.linkedin.com/in/xzanderbr/) · [Resume](https://xzanderbr.github.io/assets/resume.pdf)
+Highlights: [Aztec List](https://github.com/xZanderBR/Aztec-List), a student marketplace with semantic search and an AI shopping assistant ([live demo](https://azteclist.com)), and [Pourtocol](https://github.com/xZanderBR/Pourtocol), a networked drink dispenser ([demo video](https://youtu.be/go4TOXk46Cg)).
 
 ## Tech
 
-- **Languages:** C++, Python, TypeScript, C, Rust, Java, C#
-- **Web:** Next.js, React, FastAPI, Flask, PostgreSQL, Tailwind CSS
-- **Systems & embedded:** CMake, Vulkan/ImGui, ESP32 (Arduino)
-- **ML:** PyTorch, Gymnasium, Stable-Baselines3, NumPy
-- **Infra:** Docker, GitHub Actions, Vercel, Fly.io
+- **Languages:** Python, TypeScript, C/C++, Rust, SQL
+- **Web & backend:** React, Next.js, FastAPI, Flask, PostgreSQL, Tailwind CSS
+- **Desktop & systems:** Tauri, Win32, CMake, Vulkan/ImGui
+- **AI/ML:** LangGraph, Qdrant, Claude API, PyTorch, Stable-Baselines3
+- **Infra:** Docker, GitHub Actions, Cloudflare Workers, Vercel, Fly.io
 
 ## GitHub stats
 
@@ -30,7 +26,5 @@ Highlights: [Aztec List](https://github.com/xZanderBR/Aztec-List), a marketplace
 <sub>Includes private repositories.</sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=xzanderbr)
-
-<sub>Away from the keyboard: surfing, powerlifting (hence the meet calculator), and a lot of music.</sub>
 
 <!-- WELCOME TO MY PROFILE -->
